@@ -1,0 +1,62 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import url(https://fonts.google.com/css?family=Open+Sans+Condensed)
+
+
+html {
+  background-color: aliceblue;
+}
+
+body {
+  background-color: aliceblue;
+}
+
+a {
+  border-radius: 20px;
+  text-decoration: none;
+  background-color: white;
+  color: black;
+  text-align: center;
+  font-size: 30px;
+  font-family: "Montserrat", sans-serif;
+  width: 130px;
+  margin: 60px;
+  display: inline-block;
+  padding: 40px;
+}
+
+span {
+  font-size: 20px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align: center;
+  font-height: 1.5;
+  width: 75%;
+}
+
+.header {
+  background-color: rgba(255, 255, 255, 0.65);
+  padding: 25px 0px;
+  width: 100%;
+}
+
+h1 {
+  font-family: 'Baloo', serif;
+  font-size: 100px;
+  text-align: center;
+  width: 100%;
+  padding: 25px 0px;
+}
+
+div {
+  display: inline-block;
+}
+
+h3 {
+  text-align: center;
+  font-size: 45px;
+}
+
+.idk {
+  text-align: center;
+}
+
+
